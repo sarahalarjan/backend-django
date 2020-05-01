@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "5eac1eb664e003a5b1aec2d9"
+  },
+  "id": 2,
+  "title": "Lover",
+  "album_id": 3,
+  "artist_id": 2
+},{
+  "_id": {
+    "$oid": "5eac1f0b64e003a5b1aec2db"
+  },
+  "id": 3,
+  "title": "suger",
+  "album_id": 6,
+  "artist_id": 1
+},{
+  "_id": {
+    "$oid": "5eac1f4a64e003a5b1aec2dc"
+  },
+  "id": 4,
+  "title": "bad blood",
+  "album_id": 6,
+  "artist_id": 2
+},{
+  "_id": {
+    "$oid": "5eac21e8853ded5e29bec4ad"
+  },
+  "id": 7,
+  "title": "blood",
+  "album_id": 6,
+  "artist_id": 2
+}]

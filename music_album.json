@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "5eac1abdb24465ea8b8cb05f"
+  },
+  "id": 3,
+  "title": "Lover",
+  "artist_id": 2
+},{
+  "_id": {
+    "$oid": "5eac1b208908e9557ed8112a"
+  },
+  "id": 5,
+  "title": "RED",
+  "artist_id": 2
+},{
+  "_id": {
+    "$oid": "5eac1ee664e003a5b1aec2da"
+  },
+  "id": 6,
+  "title": "suger",
+  "artist_id": 1
+}]

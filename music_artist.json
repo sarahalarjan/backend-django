@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "5eac1553e6246c33f09fbe36"
+  },
+  "id": 1,
+  "name": "Maroon5"
+},{
+  "_id": {
+    "$oid": "5eac15ebdb0c23a0ff7723f2"
+  },
+  "id": 2,
+  "name": "Taylor Swift"
+}]
