@@ -1,0 +1,15 @@
+query getSongs {
+  songs {
+       title
+    
+    album{
+      title
+    }
+    artist{
+      name
+    }
+  }
+
+}
+
+endpoint: http://127.0.0.1:8000/graphql/
