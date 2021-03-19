@@ -9,7 +9,7 @@ Django==3.0.6
 django-cors-headers==3.2.1
 django-cors-middleware==1.5.0
 django-mongodb-engine @ git+https://github.com/django-nonrel/mongodb-engine@1314786975d3d17fb1a2e870dfba004158a5e431
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangotoolbox @ git+https://github.com/django-nonrel/djangotoolbox@7e2c47e2ab5ee98d0c0f47c5ccce08e75feda48a
 filelock==3.0.12
 Flask==1.1.2
